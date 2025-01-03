@@ -1,7 +1,7 @@
 from random import *
 
-#aleatorio = randint(1,50)
-#print(aleatorio)
+aleatorio = randint(1,50)
+print(aleatorio)
 
 aleatorio1 = round(uniform(1,5),2)
 print(aleatorio1)
@@ -19,3 +19,6 @@ print(aleatorio)
 numeros = list(range(5,50,5))
 shuffle(numeros) #genera una mezcla aleatoria
 print(numeros)
+
+
+
